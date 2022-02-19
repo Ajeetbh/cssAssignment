@@ -1,0 +1,196 @@
+
+body{
+    background-color:black;
+}
+/* 1 Welcome to Acme Web Solutions */
+.header{
+    background-image: url('/image/coding5.webp');
+    background-color: rgb(102, 94, 94);
+    background-size:cover;
+    color: whitesmoke;
+    height: 220px;
+    width: 750px;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 60px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family:'Arial';
+    font-size: 13px;
+}
+.div{
+    border: 2px solid gray;
+    background-color: rgb(63, 60, 60);
+    width: 90px;
+    height: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    margin-left: 320px;
+    margin-top: 50px;
+    font-family:'Arial';
+    font-size: 13px;
+}
+
+
+/* 2 Web & Application Development  */
+.web-application{
+    background-color: #f1f1f1;
+    border: 1px solid white;
+    height: 150px;
+    width: 908px;
+    margin-left: 400px;
+    margin-right: 200px;
+}
+.web-p1{
+    border: 1px solid white;
+    /* height: 100px;
+    width: 700px; */
+    text-align: center;
+    /* margin-left: 400px;
+    margin-right: 400px; */
+    font-family:'Arial';
+    font-size: 12px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+}
+.web-h3{
+    /* margin-left: 510px;
+    margin-right: 400px; */
+    font-family:'Arial';
+    font-size: 13px;
+    padding-left: 170px;
+    padding-right: 100px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+
+
+/* 3 web,mobile,tech Development  */
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(63, 60, 60);
+    height: 400px;
+    width: 910px;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    font-family:'Arial';
+    flex-direction: row;
+  }
+  
+  .flex-web{
+    background-color: #f1f1f1;
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 20px;  
+    font-size: 13px;
+    width: 150px;
+    height: 300px;
+    align-items: center;
+    
+  } 
+   #flex-1{
+       margin: 70px;
+   }
+   
+  #flex-2{
+    margin:50px;
+  }
+  #flex-3{
+    margin: 70px;
+  } 
+
+
+  /* 4 We handle all of your digital needs  */
+  .digital{
+    background-color: #f1f1f1;
+    border: 1px solid white;
+    height: 150px;
+    width: 908px;
+    margin-left: 400px;
+    margin-right: 200px;
+  }
+.web-p2{
+    border: 1px solid white;
+    text-align: center;
+    font-family:'Arial';
+    font-size: 12px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+.web-h4{
+    font-family:'Arial';
+    font-size: 13px;
+    padding-left: 150px;
+    padding-right: 100px;
+    padding-top: 30px;
+    text-align: center;
+
+} 
+
+/* 5 contact-company */
+.contact-company{
+    display: flex;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    height: 200px;
+    width: 912px;
+    font-family:'Arial';
+    font-size: 13px;
+}
+.contact{
+    background-color: dodgerblue;
+    color: #f1f1f1;
+    width: 1205px;
+    padding: 30px;
+}
+.company{
+    background-color: gray;
+    color: #f1f1f1;
+    padding: 30px;
+}
+
+/* 6 Acme Web Solutions */
+.solution{
+    display: flex;
+    background-color: black;
+    color: #f1f1f1;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    height: 70px;
+    width: 908px;
+    font-family:'Arial';
+    font-size: 12px;
+}
+
+#abc{
+    margin-left: 200px;
+    padding-top: 10px;
+}
+#def{
+    margin-left: 352px;
+    padding-top: 10px;
+}
+
+/* 7 header end */
+.end{
+    background-color:darkgray;
+    margin-left: 400px;
+    margin-right: 400px;
+    height: 70px;
+    width: 908px;
+}
+
+
+
+
